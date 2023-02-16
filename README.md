@@ -19,3 +19,6 @@ To run the application, just follow the instructions:
 If you want to confirm that the emails are being sent and received, you can log in on mailtrap with the following credentials:
 1 - user: "emailtestingtrapmail@gmail.com"
 2 - pass: "MyZenTeam123*"
+
+
+Please notice that I could disable the buttons when the candidate is contacted our hired, adjust the grid size, add a successful or error message after the requests for the contact and hire candidate, etc.
