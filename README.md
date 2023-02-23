@@ -1,6 +1,3 @@
-
-# MyZenTeam code test assignment
-
 ## Description
 
 Pinia is used for state management, but we could achieve the desired behavior with the function $emit to communicate between the child component Candidate.vue and the parent component Candidates and with the parent's parent App.vue and pass the variable coins as a prop to the CandidatesHeader.vue component, for example. With the stores, we could use the information in other components, and the information would be easily accessible and updated.
